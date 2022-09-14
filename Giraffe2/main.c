@@ -10,8 +10,16 @@ int main()
 
     // char name[20];
     // printf("Enter your name: ");
-    // fgets(name, 20, stdin);
-    // printf("Your name is %s asdf", name);
+    // fgets(name, 20, stdin); // fgets is for (multiple) strings (seems it auto-accepts Enter from previous input)
+    // printf("\nYour name is %s champ!\n\n", name);
+
+    double num1;
+    double num2;
+    printf("Enter first number: ");
+    scanf("%lf", &num1);
+    printf("Enter second number: ");
+    scanf("%lf", &num2);
+    printf("Answer: %f \n\n", num1 + num2);
 
     return 0;
 }
