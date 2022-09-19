@@ -22,4 +22,5 @@ int main()
     printf("Answer: %f \n\n", num1 + num2);
 
     return 0;
+//note to self: update practice
 }
