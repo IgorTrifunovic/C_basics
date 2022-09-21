@@ -23,4 +23,5 @@ int main()
 
     return 0;
 //note to self: update practice
+    // fale mi dve vezbe
 }
