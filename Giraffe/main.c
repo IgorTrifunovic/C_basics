@@ -18,6 +18,6 @@ int main()
     printf("%s was wise in the ways of science so he also knew %d years has little over %d days he has at his disposal.\n", characterName, diferenceInAge, diferenceInAge * 365);
 
     /* This is my coment  */
-
+    /* This is my coment  */
     return 0;
 }
